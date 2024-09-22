@@ -31,6 +31,7 @@ python main.ipynb
 ## Data
 
 [Dataset](https://www.kaggle.com/datasets/adibadea/chbmitseizuredataset)
+[code](https://www.kaggle.com/code/akhilbisht798/siezure/)
 
 ## Modeling
 
